@@ -8,8 +8,11 @@
     </parent>
     <groupId>com.amazon.sellingpartnerapi</groupId>
     <artifactId>sellingpartnerapi-aa-java</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>3.0.0</version>
     <packaging>jar</packaging>
+    <scm>
+        <tag>sellingpartnerapi-aa-java-2.0.0-SNAPSHOT-3.0.0</tag>
+    </scm>
     <properties>
         <aws-sdk.version>1.12.661</aws-sdk.version>
         <guava.version>33.0.0-jre</guava.version>
